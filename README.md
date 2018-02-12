@@ -1,6 +1,7 @@
 # Exploit Over WAN without Port Forwarding
 This script enables users to use reverse_tcp exploits from metasploit over WAN without port forwarding.
 
+You can change the payload according to your use case. I have made comments in the script to make it easier for you
 
 ## Usage
 
